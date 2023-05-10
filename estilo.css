@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(149, 110, 185, 0.763);
+}
+div{
+    background-color: aqua;
+ text-align: center;
+   margin: 80px 60px 40 px 10px;
+   padding: 120px 60px 60px 5px;
+}
+
+.container
+{
+ background-color: brown;   
+ margin: 60px;
+ padding: 80px;
+}
+#title{
+ color:rgb(198, 142, 59)
+}
+.clase2
+{
+    color: blue;
+}
+
+.color2
+{
+    color: yellow;
+
+}
+.texto
+{
+    color: beige;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: justify;
+
+    margin: 20px;
+    padding: 20px;
+}
+.prueba222
+{
+border:10px solid rgb(96, 48, 185);
+border-radius: 60px;
+display:block;
+width: 300px;
+}
+.color3
+{
+display: flex;
+flex-direction:column-reverse;
+    color: blueviolet;
+    width: 300vw;
+}
